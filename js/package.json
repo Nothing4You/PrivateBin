@@ -8,8 +8,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jsdom": "^9.12.0",
-    "jsdom-global": "^2.1.1",
+    "jsdom": "^11.12.0",
+    "jsdom-global": "^3.0.2",
     "jsdom-url": "^2.2.1",
     "jsverify": "^0.8.3",
     "@peculiar/webcrypto": "^1.1.1"
